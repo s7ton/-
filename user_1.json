@@ -1,0 +1,17 @@
+{
+    "location": {
+        "lat": 24.9578,
+        "lng": 46.698
+    },
+    "documents": {
+        "id_expiry": "2026-01-07"
+    },
+    "visits": {
+        "travel": 8,
+        "renew_id": 12,
+        "plates_auction": 20,
+        "traffic": 4,
+        "delivery": 4,
+        "weapons": 0
+    }
+}
